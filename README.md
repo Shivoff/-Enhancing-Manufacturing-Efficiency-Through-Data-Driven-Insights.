@@ -18,10 +18,6 @@ Each section provides actionable insights into business operations by analyzing 
 ## 📁 Files Included
 
 - `Employee_Production_Dashboard.pbix` – Power BI dashboard file  
-- `![image](https://github.com/user-attachments/assets/19229e83-c04c-4f9a-a776-2d1ccf69584d)
-` – Screenshot of the Employee Report  
-- `![image](https://github.com/user-attachments/assets/3032db4e-58ef-4d5e-9ac5-38ede8ccf817)
-` – Screenshot of the Production Report  
 
 ---
 
@@ -72,18 +68,16 @@ The dashboard is built using a mock dataset containing:
 ## 🖼 Dashboard Snapshots
 
 ### 📍 Employee Report  
-![Employee Report](./99acc42c-2f44-405e-b8e1-c4acf987c663.png)
+![image](https://github.com/user-attachments/assets/484a03e6-4a40-4fc4-b056-74fb4a392830)
+
 
 ### 📍 Production Report  
-![Production Report](./3f3c4d13-0030-4b9b-bb26-53179d0024fa.png)
+![image](https://github.com/user-attachments/assets/d99b564a-bed6-4612-878b-2daaec01dd6b)
+
 
 ---
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgments
 
